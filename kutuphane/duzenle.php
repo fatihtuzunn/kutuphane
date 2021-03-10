@@ -1,10 +1,5 @@
 <?php require_once 'baglan.php'; ?>
 <!DOCTYPE html>
-<html>
-<head>
-	<title>CRUD İŞLEMLERİ</title>
-</head>
-<body>
 
 
 	<h1>Veritabanı PDO düzenleme işlemleri</h1>
